@@ -18,4 +18,4 @@ def makeCommits(days: int):
         return days * makeCommits(days - 1)
 
 
-makeCommits(2480)
+makeCommits(2333)
